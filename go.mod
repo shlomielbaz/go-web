@@ -1,4 +1,4 @@
-module bookings-udemy
+module github.com/shlomielbaz
 
 go 1.15
 

@@ -1,9 +1,9 @@
 package handlers
 
 import (
-	"bookings-udemy/pkg/config"
-	"bookings-udemy/pkg/models"
-	"bookings-udemy/pkg/render"
+	"github.com/shlomielbaz/pkg/config"
+	"github.com/shlomielbaz/pkg/models"
+	"github.com/shlomielbaz/pkg/render"
 	"net/http"
 )
 
